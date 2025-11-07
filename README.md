@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Career Guidance - Enhanced Frontend (Profile + Dashboard)
 
 Features
@@ -18,3 +19,6 @@ Run locally
 Notes
 - This is frontend-only. All data stays in your browser's localStorage.
 - Project is ready for deployment to Vercel/Netlify after `npm run build`.
+=======
+# AI-Career-Guidance-Skill-Recommendation-Platform
+>>>>>>> f730d2be2052972e40f1eb94bfca7706df719ba6
